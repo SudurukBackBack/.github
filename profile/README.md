@@ -1,4 +1,11 @@
+# Team SudurukBackBack
+
 ## Hi there 👋
+
+### Member
+|김소현|김동환|서지희|윤승민|
+|---|---|---|---|
+|Back|Back|Back|Back|
 
 <!--
 

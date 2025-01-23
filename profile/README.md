@@ -4,9 +4,9 @@
 
 ### Member
 | [김소현](https://github.com/itzelic-code) | [김동환](https://github.com/TurtleKim322) | [서지희](https://github.com/jessi87) | [윤승민](https://github.com/Syun9274) |
-| :---: | :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/121436066?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/166622125?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/29170963?v=4" width=200px alt="_"/> | <img src="" width=200px alt="_"/> |
-| Back | Back | Back | Back |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/121436066?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/166622125?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/29170963?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/133202109?v=4" width=200px alt="_"/> |
+| Back-end | Back-end | Back-end | Back-end |
 
 <!--
 

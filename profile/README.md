@@ -27,5 +27,4 @@
 ---
 
 ## 📧 **문의 및 연락처**
-- **팀 이메일**: modu-lecture@example.com
 - **GitHub Repository**: [Modu-Lecture](https://github.com/SudurukBackBack/Modu-Lecture)

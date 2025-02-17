@@ -28,3 +28,4 @@
 
 ## 📧 **문의 및 연락처**
 - **GitHub Repository**: [Modu-Lecture](https://github.com/SudurukBackBack/Modu-Lecture)
+- **Notion**: [Modu-Lecture](https://www.notion.so/itzelic-code/18035f0d844e805fbf98c86bb9c003c7)

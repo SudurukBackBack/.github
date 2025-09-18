@@ -38,5 +38,5 @@
 ---
 
 ## 📧 **문의 및 연락처**
-- **GitHub Repository**: [Modu-Lecture](https://github.com/SudurukBackBack/Modu-Lecture)
-- **Notion**: [Modu-Lecture](https://www.notion.so/itzelic-code/18035f0d844e805fbf98c86bb9c003c7)
+- **GitHub Repository(Private)**: [modu-msa](https://github.com/SudurukBackBack/modu-msa)
+- **Notion(Staff Only)**: [모두의 위키](https://www.notion.so/23b7bb390d46805bb20df2f29e792e10?v=23b7bb390d4681889706000cadf626f2)

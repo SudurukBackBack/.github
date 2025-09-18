@@ -5,44 +5,27 @@
 
 ## **🛠 Tech Stack | 개발 환경**  
 
-### **Backend**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
-### **Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### **Database & Cloud** 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-
-### **Build & DevOps**  
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Security & Authentication**  
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=oauth&logoColor=white)
-![Cookie](https://img.shields.io/badge/Cookie-6D4C41?style=for-the-badge)
-
-### **Collaboration & Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)  
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| 분류 | 기술 | 버전 | 용도 |
+| --- | --- | --- | --- |
+| Language | Java | 17 | 백엔드 개발 언어 |
+| Framework | Spring Boot | 3.2.5 | 마이크로서비스 프레임워크 |
+|  | Spring Security | 6.x | 인증/인가 처리 |
+|  | Spring Data JPA | 3.x | ORM 및 데이터 접근 |
+|  | Spring Cloud | 2023.0.1 | 마이크로 서비스 통신 |
+| Database | PostgreSQL | Latest | 관계형 데이터베이스 |
+|  | ElasticSearch | Latest | 검색 엔진 |
+| Message Queue | Apache Kafka | Latest | 비동기 메시징 |
+| Authentication | JWT |  | 토큰 기반 인증 |
+|  | BCrypt |  | 비밀번호 암호화 |
+| Communication | OpenFeign | 4.x | 서비스 간 HTTP 통신 |
+| Build Tool | Gradle | 8.14.2 | 빌드 및 의존성 관리 |
+| Container | Docker | Latest | 컨테이너화 |
+|  | Docker Compose | Latest | 멀티 컨테이너 관리 |
+| API Gateway | Spring Cloud Gateway | 4.x | API 라우팅 및 로드밸런싱 |
+| Monitoring | Spring Boot Actuator | 3.x | 애플리케이션 모니터링 |
+| Validation | Bean Validation | 3.x | 입력값 검증 |
+| Utility | Lombok | Latest | 코드 간소화 |
+| Frontend | HTML/CSS/JS |  | 클라이언트 UI |
 
 ---
 
